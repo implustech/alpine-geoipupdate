@@ -3,7 +3,11 @@
 
 ## Usage:
 
-Volume geoip config file to `/etc/conf/GeoIP.conf`
+Mount GeoIP.conf file to `/etc/conf/GeoIP.conf`
+
+UserId
+LicenseKey
+ProductIds GeoIP2-Country
 
 ```sh
 
